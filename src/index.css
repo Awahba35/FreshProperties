@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container { 
+  margin-top: 150px;
+  width: 680px
+}
+
+.ahmed-pic {
+
+}
+
+.signUp {
+  margin-top: 50px;
+}
+
+.App-header {
+  background-color: rgb(34, 34, 34);
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
